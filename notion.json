@@ -1,0 +1,2105 @@
+{
+    "object": "list",
+    "issueDate": "11-12-2023",
+    "dueDate": "18-12-2023",
+    "server": {
+        "logo": "path/to/logo.png",
+        "companyName": "Hammad's Company",
+        "firstName": "M. Hammad",
+        "lastName": "Hassan",
+        "address": {
+            "city": "Karachi, Sindh",
+            "country": "Pakistan"
+        },
+        "email": "hammad.hassan@localhost.com",
+        "profileURL": {
+            "url": "https://www.upwork.com/freelancers/~01f9b5bc6f481f0385",
+            "displayText": "Hammad on Upwork"
+        }
+    },
+    "results": [
+        {
+            "object": "page",
+            "id": "042a105c-e78f-454a-aaa7-7056d6aea9dd",
+            "created_time": "2023-11-29T15:58:00.000Z",
+            "last_edited_time": "2023-11-29T16:36:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.7
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2023-11-29T15:58:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-11-29",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "16:55 - 17:35",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "16:55 - 17:35",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4895ef1b-1575-45d2-91d9-af3a2f0cd5e7",
+                            "name": "Allgemein",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Ausarbeitung Struktur",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Ausarbeitung Struktur",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Ausarbeitung-Struktur-042a105ce78f454aaaa77056d6aea9dd",
+            "public_url": "https://severinboegli.notion.site/Ausarbeitung-Struktur-042a105ce78f454aaaa77056d6aea9dd"
+        },
+        {
+            "object": "page",
+            "id": "0aa4a69b-cf5f-4c5a-9b09-f6347dde2c1a",
+            "created_time": "2024-01-24T21:41:00.000Z",
+            "last_edited_time": "2024-01-24T21:50:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 1.25
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-01-24T21:41:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-01-24",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "21:15 - 22.30",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "21:15 - 22.30",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6a476fda-7689-43cc-85b2-e0c0cb73f78c",
+                            "name": "Webseite",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bildgalerie fertigstellen & erste Implementierung",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bildgalerie fertigstellen & erste Implementierung",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bildgalerie-fertigstellen-erste-Implementierung-0aa4a69bcf5f4c5a9b09f6347dde2c1a",
+            "public_url": "https://severinboegli.notion.site/Bildgalerie-fertigstellen-erste-Implementierung-0aa4a69bcf5f4c5a9b09f6347dde2c1a"
+        },
+        {
+            "object": "page",
+            "id": "0f87413f-1e76-4ea3-a489-e8741d56a35c",
+            "created_time": "2024-08-29T17:35:00.000Z",
+            "last_edited_time": "2024-08-29T17:35:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-08-29T17:35:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-08-29",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "6:45 - 7:15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "6:45 - 7:15",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "478d5a32-fa80-45d9-a714-d33763d8d0cd",
+                            "name": "Event",
+                            "color": "green"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Erstellen des Presseberichtes über den Fachvortrag Künstliche Intelligenz",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Erstellen des Presseberichtes über den Fachvortrag Künstliche Intelligenz",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Erstellen-des-Presseberichtes-ber-den-Fachvortrag-K-nstliche-Intelligenz-0f87413f1e764ea3a489e8741d56a35c",
+            "public_url": "https://severinboegli.notion.site/Erstellen-des-Presseberichtes-ber-den-Fachvortrag-K-nstliche-Intelligenz-0f87413f1e764ea3a489e8741d56a35c"
+        },
+        {
+            "object": "page",
+            "id": "10ca50dc-0a6b-806a-9372-c0ea644b825f",
+            "created_time": "2024-09-25T19:17:00.000Z",
+            "last_edited_time": "2024-09-25T19:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 1
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-09-25T19:17:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-09-25",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "12:00 - 12:30 & 20:45 - 21:15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "12:00 - 12:30 & 20:45 - 21:15",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "b109957d-73c7-49f1-b770-13f2302ba24f",
+                            "name": "LinkedIn",
+                            "color": "pink"
+                        },
+                        {
+                            "id": "a34aaa76-a99d-424e-b737-3cf9dfb415d9",
+                            "name": "E-Mail",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Schreiben Newsletter und LinkedIn Beitrag",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Schreiben Newsletter und LinkedIn Beitrag",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Schreiben-Newsletter-und-LinkedIn-Beitrag-10ca50dc0a6b806a9372c0ea644b825f",
+            "public_url": "https://severinboegli.notion.site/Schreiben-Newsletter-und-LinkedIn-Beitrag-10ca50dc0a6b806a9372c0ea644b825f"
+        },
+        {
+            "object": "page",
+            "id": "10da50dc-0a6b-8001-8294-ee3c5f61af68",
+            "created_time": "2024-09-26T15:21:00.000Z",
+            "last_edited_time": "2024-09-26T15:21:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.25
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-09-26T15:21:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-09-26",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "17:00 - 17:15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "17:00 - 17:15",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4bd34f2c-cb30-4d95-b9b0-a23e06ddf9a7",
+                            "name": "Newsletter",
+                            "color": "red"
+                        },
+                        {
+                            "id": "b109957d-73c7-49f1-b770-13f2302ba24f",
+                            "name": "LinkedIn",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Veröffentlichung Beitrag Rolls Royce",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Veröffentlichung Beitrag Rolls Royce",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Ver-ffentlichung-Beitrag-Rolls-Royce-10da50dc0a6b80018294ee3c5f61af68",
+            "public_url": "https://severinboegli.notion.site/Ver-ffentlichung-Beitrag-Rolls-Royce-10da50dc0a6b80018294ee3c5f61af68"
+        },
+        {
+            "object": "page",
+            "id": "10f63309-afba-47e8-b926-31aea07c2959",
+            "created_time": "2024-01-13T16:31:00.000Z",
+            "last_edited_time": "2024-01-13T18:11:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 1.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-01-13T16:31:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-01-13",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "17:15 - 18:45",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "17:15 - 18:45",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6a476fda-7689-43cc-85b2-e0c0cb73f78c",
+                            "name": "Webseite",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bildgalerie weitermachen",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bildgalerie weitermachen",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bildgalerie-weitermachen-10f63309afba47e8b92631aea07c2959",
+            "public_url": "https://severinboegli.notion.site/Bildgalerie-weitermachen-10f63309afba47e8b92631aea07c2959"
+        },
+        {
+            "object": "page",
+            "id": "124a50dc-0a6b-8060-b29e-d5b092993bd2",
+            "created_time": "2024-10-19T16:19:00.000Z",
+            "last_edited_time": "2024-10-19T16:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.25
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-10-19T16:19:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-10-14",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "11.00 - 11.15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "11.00 - 11.15",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4bd34f2c-cb30-4d95-b9b0-a23e06ddf9a7",
+                            "name": "Newsletter",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Newsletter versenden",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Newsletter versenden",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Newsletter-versenden-124a50dc0a6b8060b29ed5b092993bd2",
+            "public_url": "https://severinboegli.notion.site/Newsletter-versenden-124a50dc0a6b8060b29ed5b092993bd2"
+        },
+        {
+            "object": "page",
+            "id": "124a50dc-0a6b-8089-bea2-f36a261ed6f1",
+            "created_time": "2024-10-19T16:17:00.000Z",
+            "last_edited_time": "2024-10-19T16:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 1
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-10-19T16:17:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-10-11",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "16.30 - 17.00 & 23.30 - 24.00",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "16.30 - 17.00 & 23.30 - 24.00",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4bd34f2c-cb30-4d95-b9b0-a23e06ddf9a7",
+                            "name": "Newsletter",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Newsletter bearbeiten und ready machen fürs Versenden",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Newsletter bearbeiten und ready machen fürs Versenden",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Newsletter-bearbeiten-und-ready-machen-f-rs-Versenden-124a50dc0a6b8089bea2f36a261ed6f1",
+            "public_url": "https://severinboegli.notion.site/Newsletter-bearbeiten-und-ready-machen-f-rs-Versenden-124a50dc0a6b8089bea2f36a261ed6f1"
+        },
+        {
+            "object": "page",
+            "id": "124a50dc-0a6b-80c7-a182-c959ef8276c2",
+            "created_time": "2024-10-19T16:19:00.000Z",
+            "last_edited_time": "2024-10-19T16:21:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.75
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-10-19T16:19:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-10-19",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "17.30 - 18.15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "17.30 - 18.15",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a34aaa76-a99d-424e-b737-3cf9dfb415d9",
+                            "name": "E-Mail",
+                            "color": "gray"
+                        },
+                        {
+                            "id": "4895ef1b-1575-45d2-91d9-af3a2f0cd5e7",
+                            "name": "Allgemein",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Teilnehmerliste zusenden & Mails",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Teilnehmerliste zusenden & Mails",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Teilnehmerliste-zusenden-Mails-124a50dc0a6b80c7a182c959ef8276c2",
+            "public_url": "https://severinboegli.notion.site/Teilnehmerliste-zusenden-Mails-124a50dc0a6b80c7a182c959ef8276c2"
+        },
+        {
+            "object": "page",
+            "id": "128a50dc-0a6b-8072-9e80-fade675a387a",
+            "created_time": "2024-10-23T17:05:00.000Z",
+            "last_edited_time": "2024-10-23T17:06:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-10-23T17:05:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-10-23",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "18:30 - 19:00",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "18:30 - 19:00",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6a476fda-7689-43cc-85b2-e0c0cb73f78c",
+                            "name": "Webseite",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Layout für Fördermitglieder entwerfen / ausdenken",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Layout für Fördermitglieder entwerfen / ausdenken",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Layout-f-r-F-rdermitglieder-entwerfen-ausdenken-128a50dc0a6b80729e80fade675a387a",
+            "public_url": "https://severinboegli.notion.site/Layout-f-r-F-rdermitglieder-entwerfen-ausdenken-128a50dc0a6b80729e80fade675a387a"
+        },
+        {
+            "object": "page",
+            "id": "12fa50dc-0a6b-8023-9898-e0e45b7111c8",
+            "created_time": "2024-10-30T20:21:00.000Z",
+            "last_edited_time": "2024-10-30T20:22:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.25
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-10-30T20:21:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-10-30",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "21:00 - 21:15",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "21:00 - 21:15",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a34aaa76-a99d-424e-b737-3cf9dfb415d9",
+                            "name": "E-Mail",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Mail Corinna beantworten und Mitglieder export machen",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Mail Corinna beantworten und Mitglieder export machen",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Mail-Corinna-beantworten-und-Mitglieder-export-machen-12fa50dc0a6b80239898e0e45b7111c8",
+            "public_url": "https://severinboegli.notion.site/Mail-Corinna-beantworten-und-Mitglieder-export-machen-12fa50dc0a6b80239898e0e45b7111c8"
+        },
+        {
+            "object": "page",
+            "id": "135a50dc-0a6b-8062-952c-f45bb685c2e9",
+            "created_time": "2024-11-05T22:04:00.000Z",
+            "last_edited_time": "2025-01-29T06:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-11-05T22:04:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-11-05",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "19:00  - 19:30",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "19:00  - 19:30",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4895ef1b-1575-45d2-91d9-af3a2f0cd5e7",
+                            "name": "Allgemein",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Rechnung für Juli bis Oktober 2024 ausstellen",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Rechnung für Juli bis Oktober 2024 ausstellen",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Rechnung-f-r-Juli-bis-Oktober-2024-ausstellen-135a50dc0a6b8062952cf45bb685c2e9",
+            "public_url": "https://severinboegli.notion.site/Rechnung-f-r-Juli-bis-Oktober-2024-ausstellen-135a50dc0a6b8062952cf45bb685c2e9"
+        },
+        {
+            "object": "page",
+            "id": "146a50dc-0a6b-801c-a6a3-df64f56cdbdc",
+            "created_time": "2024-11-22T17:45:00.000Z",
+            "last_edited_time": "2025-01-29T06:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.75
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-11-22T17:45:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-11-22",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "18:00 - 18:45",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "18:00 - 18:45",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a34aaa76-a99d-424e-b737-3cf9dfb415d9",
+                            "name": "E-Mail",
+                            "color": "gray"
+                        },
+                        {
+                            "id": "6a476fda-7689-43cc-85b2-e0c0cb73f78c",
+                            "name": "Webseite",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bericht Rolls Royce veröffentlichen & Mail",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bericht Rolls Royce veröffentlichen & Mail",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bericht-Rolls-Royce-ver-ffentlichen-Mail-146a50dc0a6b801ca6a3df64f56cdbdc",
+            "public_url": "https://severinboegli.notion.site/Bericht-Rolls-Royce-ver-ffentlichen-Mail-146a50dc0a6b801ca6a3df64f56cdbdc"
+        },
+        {
+            "object": "page",
+            "id": "157a50dc-0a6b-8020-950f-d9adea4c3a6a",
+            "created_time": "2024-12-09T17:59:00.000Z",
+            "last_edited_time": "2025-01-29T06:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 1
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-12-09T17:59:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-12-09",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "18:00 - 19:00",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "18:00 - 19:00",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4bd34f2c-cb30-4d95-b9b0-a23e06ddf9a7",
+                            "name": "Newsletter",
+                            "color": "red"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Newsletter Jahresbegrüssung",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Newsletter Jahresbegrüssung",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Newsletter-Jahresbegr-ssung-157a50dc0a6b8020950fd9adea4c3a6a",
+            "public_url": "https://severinboegli.notion.site/Newsletter-Jahresbegr-ssung-157a50dc0a6b8020950fd9adea4c3a6a"
+        },
+        {
+            "object": "page",
+            "id": "16fa50dc-0a6b-8074-bca7-edebf43b420e",
+            "created_time": "2025-01-02T18:38:00.000Z",
+            "last_edited_time": "2025-01-29T06:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2025-01-02T18:38:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-01-02",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "19:10 - 19:40",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "19:10 - 19:40",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6a476fda-7689-43cc-85b2-e0c0cb73f78c",
+                            "name": "Webseite",
+                            "color": "purple"
+                        },
+                        {
+                            "id": "a34aaa76-a99d-424e-b737-3cf9dfb415d9",
+                            "name": "E-Mail",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Mail schreiben und Abklärung für neues Fördermitglied",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Mail schreiben und Abklärung für neues Fördermitglied",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Mail-schreiben-und-Abkl-rung-f-r-neues-F-rdermitglied-16fa50dc0a6b8074bca7edebf43b420e",
+            "public_url": "https://severinboegli.notion.site/Mail-schreiben-und-Abkl-rung-f-r-neues-F-rdermitglied-16fa50dc0a6b8074bca7edebf43b420e"
+        },
+        {
+            "object": "page",
+            "id": "183cf399-b22c-4915-b559-9efabf288675",
+            "created_time": "2024-07-12T15:51:00.000Z",
+            "last_edited_time": "2024-07-12T15:52:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2024-07-12T15:51:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2024-07-10",
+                        "end": "2024-07-12",
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "-",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "-",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "4895ef1b-1575-45d2-91d9-af3a2f0cd5e7",
+                            "name": "Allgemein",
+                            "color": "orange"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Newsletter Fachvortrag KI und diverse Tocco Exporte",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Newsletter Fachvortrag KI und diverse Tocco Exporte",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Newsletter-Fachvortrag-KI-und-diverse-Tocco-Exporte-183cf399b22c4915b5599efabf288675",
+            "public_url": "https://severinboegli.notion.site/Newsletter-Fachvortrag-KI-und-diverse-Tocco-Exporte-183cf399b22c4915b5599efabf288675"
+        },
+        {
+            "object": "page",
+            "id": "18aa50dc-0a6b-80cf-bfdd-cea6e0cd295b",
+            "created_time": "2025-01-29T06:15:00.000Z",
+            "last_edited_time": "2025-01-29T06:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 0.5
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2025-01-29T06:15:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2025-01-28",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "18:30 - 19:00",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "18:30 - 19:00",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "a34aaa76-a99d-424e-b737-3cf9dfb415d9",
+                            "name": "E-Mail",
+                            "color": "gray"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Mail beantworten & Mitgliederexport",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Mail beantworten & Mitgliederexport",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Mail-beantworten-Mitgliederexport-18aa50dc0a6b80cfbfddcea6e0cd295b",
+            "public_url": "https://severinboegli.notion.site/Mail-beantworten-Mitgliederexport-18aa50dc0a6b80cfbfddcea6e0cd295b"
+        },
+        {
+            "object": "page",
+            "id": "d6fbd5e3-4ce4-4ac9-888b-6106628bde70",
+            "created_time": "2023-11-19T09:37:00.000Z",
+            "last_edited_time": "2023-11-29T16:33:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "data_source_id",
+                "data_source_id": "d60c3c62-9821-4b75-8511-6f9f7d112aa7",
+                "database_id": "f85a9b60-8f08-4c6a-8c54-a58817733a89"
+            },
+            "archived": false,
+            "in_trash": false,
+            "is_locked": false,
+            "properties": {
+                "Stunden (in h)": {
+                    "id": "%3D%3DBW",
+                    "type": "number",
+                    "number": 1.25
+                },
+                "Created time": {
+                    "id": "%3FlQT",
+                    "type": "created_time",
+                    "created_time": "2023-11-19T09:37:00.000Z"
+                },
+                "Datum": {
+                    "id": "JI%3A%3C",
+                    "type": "date",
+                    "date": {
+                        "start": "2023-11-19",
+                        "end": null,
+                        "time_zone": null
+                    }
+                },
+                "Zeit": {
+                    "id": "Nt%3BY",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "10:30 - 11.45",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "10:30 - 11.45",
+                            "href": null
+                        }
+                    ]
+                },
+                "Tags": {
+                    "id": "Thhy",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "6a476fda-7689-43cc-85b2-e0c0cb73f78c",
+                            "name": "Webseite",
+                            "color": "purple"
+                        }
+                    ]
+                },
+                "Person": {
+                    "id": "Ug%7CS",
+                    "type": "people",
+                    "people": [
+                        {
+                            "object": "user",
+                            "id": "56e09d05-8230-46a1-9477-d1928fb5f530"
+                        }
+                    ]
+                },
+                "Titel": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Bildgalerie und Mitglieder",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Bildgalerie und Mitglieder",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Bildgalerie-und-Mitglieder-d6fbd5e34ce44ac9888b6106628bde70",
+            "public_url": "https://severinboegli.notion.site/Bildgalerie-und-Mitglieder-d6fbd5e34ce44ac9888b6106628bde70"
+        }
+    ],
+    "next_cursor": "d982301c-e403-4fed-8a13-2c6027d9a4a6",
+    "has_more": true,
+    "type": "page_or_data_source",
+    "page_or_data_source": {},
+    "developer_survey": "https://notionup.typeform.com/to/bllBsoI4?utm_source=postman",
+    "request_id": "6fd042cf-0f28-4bd3-af65-37504c3d83b8"
+}

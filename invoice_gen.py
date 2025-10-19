@@ -44,7 +44,7 @@ def render_template(template_file:str, context:dict, styles:list, output_filenam
 
 # Load context data
 context_data = {}
-with open("./data.json") as data:
+with open("./notion.json") as data:
     context_data = get_context_data(json.load(data))
     
 # load Jinja template

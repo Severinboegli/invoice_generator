@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Rechnung von {{ server.firstName }} {{ server.lastName }}</title>
+</head>
+
+<body>
+    <div class="invoice-box">
+        <table>
+            <tr class="top">
+                <td colspan="6">
+                    <table>
+                        <tr>
+                            <td class="title">
+                                <img src="{{ server.logo }}" style="width: 100%; max-width: 200px" />
+                            </td>
+                            <td class="right">
+                                <b>Rechnungsdatum:</b> {{ issueDate }}<br />
+                                <b>Fällig bis:</b> {{ dueDate }}<br />
+                                <b>Zeitraum:</b> {{ invoiceDate }}
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <tr class="information">
+                <td colspan="6">
+                    <table>
+                        <tr>
+                            <td>
+                                <strong>Absender:</strong><br />
+                                {{ server.firstName }} {{ server.lastName }}<br />
+                                {{ server.address.city }}<br />
+                                {{ server.address.country }}<br />
+                                {{ server.email }}
+                            </td>
+                            <td class="right">
+                                <strong>Empfänger:</strong><br />
+                                Swiss Engineering STV<br />
+                                Sektion Thurgau<br />
+                                Attn: Amerigo De Santis<br />
+                                Setzistrasse 5<br />
+                                8272 Ermatingen
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <tr class="heading">
+                <td>Beschreibung</td>
+                <td>Thema</td>
+                <td>Datum</td>
+                <td class="right">Stunden</td>
+                <td class="right">Stundensatz</td>
+                <td class="right">Betrag</td>
+            </tr>
+
+            {% for item in results %}
+            <tr class="item">
+                <td>{{ item.title }}</td>
+                <td>{{ item.object }}</td>
+                <td>{{ item.date }}</td>
+                <td class="right">{{ "%.2f"|format(item.hours) }}</td>
+                <td class="right">{{ "%.2f"|format(item.rate) }} CHF</td>
+                <td class="right">{{ "%.2f"|format(item.hours * item.rate) }} CHF</td>
+            </tr>
+            {% endfor %}
+
+            <tr class="total">
+                <td colspan="5" class="right">Gesamtsumme:</td>
+                <td class="right"><b>{{ "%.2f"|format(total_sum) }} CHF</b></td>
+            </tr>
+
+            <tr>
+                <td colspan="6" style="padding-top: 20px;">
+                    <b>Zahlungsfrist:</b> 30 Tage<br />
+                    <i>Vielen Dank für die gute Zusammenarbeit!</i>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>
